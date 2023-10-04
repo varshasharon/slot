@@ -1,0 +1,48 @@
+body{
+    background-color:#fffcf5;
+}
+img{
+    margin-left: 200px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.timetable{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.t2{
+    margin: 0 100 100 100;
+    font-size: 20px;
+    border: 1px solid;
+}
+.t2 th{
+    background-color: bisque;
+    padding: 20px;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+.t2 td{
+    border: 1px solid;
+    padding: 15px;
+    text-align: center;
+}
+.t3{
+    margin: auto;
+    font-size: 20px;
+    border: 1px solid;
+}
+.t3 th{
+    background-color: rgb(255, 241, 223);
+    padding: 30px;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+.t3 td{
+    border: 1px solid;
+    padding: 25px;
+    text-align: center;
+}
