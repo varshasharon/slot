@@ -192,7 +192,8 @@ h2{
 ```
 
 ## OUTPUT
-![Output](1.png)(2.png)
+![Output](1.png)
+![Out](2.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
